@@ -1,4 +1,4 @@
-# GAME OF TAASH 
+# GAME OF TAASH (./CYB3RSEV3N)
 This is our Capstone Project for our First Year PDS Lab.
 This project is our attempt at making a video game based on Sevens(Badam Satti) with the use of C Language and an external library "Raylib". 
 
@@ -57,7 +57,7 @@ We learnt to collaborate, exchanged knowledge with other fellow team members and
 This project was not only about the code but also about game development and use of computer graphics to build an interactive ui.
 
 ## Credits
-All of the contribution of our team members is in Project report PDF and credit section of our game.
+All of the contribution of our team members is in Project report document and credit section of our game.
 
 **MISC CREDITS**
 - MAIN MENU art- Taken from Thespian's Youtube Video and then converted into individual frames.
