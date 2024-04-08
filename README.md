@@ -29,7 +29,7 @@ As we can see the game is not completely fair as there is a lot of luck involved
 - Intelligent AI players- The AI players play intelligently dynamically according to the situation, following are the ai type we coded-
 1. RANDOM- As the name suggests, this ai plays random valid moves.
 2. FUNCTION- This ai plays the game by choosing the best card based on a function.
-3. Monte Carlo- This ai player plays the card based on the probablity of winning by running countless random simulations of the game and choosing the card with inherently best outcomes. This ai does a little cheating(Due to rushed development), but this issue can easily be fixed by shuffling the opponent player's card.
+3. Monte Carlo- This ai player plays the card based on the probablity of winning by running countless random simulations of the game and choosing the card with inherently best outcomes.
 - Textures and Sound effects- Using the functions provided in raylib we added textures and sound
 - Countless Quality of Life features- Can be noticed while playing the game.
 
@@ -42,7 +42,7 @@ A lots of features had to be scraped to meet the deadline.
 ## Points for Improvement
 - More structured coding (The code is readable but a more structured code is essential to avoid spaghetti code).
 - Hardcoded values- Currently the code is resolution depended because of hardcoded values, instead we could have used variables for custom scaling depending upon device's resolution.
-- We should have implemented a full Monte Carlo Tree Search (MCTS) for a much smarter ai and to save compute. As currently the ai is a little biased and cheating.
+- We should have implemented a full Monte Carlo Tree Search (MCTS) for a much smarter ai and to save compute. 
 - Better Random function- We used Rand() function with modulus to get desired random values between two numbers but this method is ever so slightly biased. Anyways the function generates a large range of random values therefore the effect of this bias is negligible.
 - Use of function to draw buttons- Right now the buttons system is fully functional but using a function would have reduced  lines of code.
 
